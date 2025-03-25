@@ -32,14 +32,21 @@ h1 {
 h3 {
   border-bottom: 1px solid #bbb;
   padding-bottom: 10px;
+<<<<<<< HEAD
   margin: 35px 0 10px;
+=======
+  margin: 40px 0 10px;
+>>>>>>> 092ddaadca77d95211ca7a0bd12fc9d40beb793a
 }
 
 h4 {
   margin: 0;
   text-transform: uppercase;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 092ddaadca77d95211ca7a0bd12fc9d40beb793a
 .inc-exp-container {
   background-color: #fff;
   box-shadow: var(--box-shadow);
@@ -56,10 +63,13 @@ h4 {
 
 .inc-exp-container > div:first-of-type {
   border-right: 1px solid #dedede;
+<<<<<<< HEAD
 }
 
 .money {
   font-size: 20px;
+=======
+>>>>>>> 092ddaadca77d95211ca7a0bd12fc9d40beb793a
   letter-spacing: 1px;
   margin: 5px 0;
 }
@@ -88,11 +98,17 @@ input[type="number"] {
 }
 
 .btn {
+<<<<<<< HEAD
   cursor: pointer;
   background-color: #9c88ff;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
+=======
+  background-color: #9c88ff;
+  box-shadow: var(--box-shadow);
+  color: #fff;
+>>>>>>> 092ddaadca77d95211ca7a0bd12fc9d40beb793a
   display: block;
   font-size: 16px;
   margin: 10px 0 30px;
@@ -121,9 +137,14 @@ input[type="number"] {
   padding: 10px;
   margin: 10px 0;
 }
+<<<<<<< HEAD
 
 .list li.plus {
   border-right: 5px solid #2ecc71;
+=======
+.list li.plus {
+  border-right: 5px solid #2ecc72;
+>>>>>>> 092ddaadca77d95211ca7a0bd12fc9d40beb793a
 }
 
 .list li.minus {
